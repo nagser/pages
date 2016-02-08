@@ -1,6 +1,6 @@
 <?php
 
-namespace app\modules\pages\widgets\CKEditorWidget;
+namespace nagser\pages\widgets\CKEditorWidget;
 
 use yii\bootstrap\Html;
 use yii\helpers\Json;
